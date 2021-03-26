@@ -1,5 +1,5 @@
 # AngularTourOfHeroes
-Tutorial project to break into Angular CLI ([tutioral here](https://angular.io/tutorial)
+Tutorial project to break into Angular CLI ([tutioral here](https://angular.io/tutorial)).
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.6.
 
 ## Development server
